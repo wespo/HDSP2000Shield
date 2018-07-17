@@ -2,13 +2,13 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-HDSP2000Shield KEYWORD1
+HDSP2000Shield	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 begin	KEYWORD2
 end	KEYWORD2
-txtBuffer   KEYWORD2
+txtBuffer	KEYWORD2
 
-HDSP2000 LITERAL1
+HDSP2000	LITERAL1
